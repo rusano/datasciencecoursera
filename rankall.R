@@ -39,7 +39,7 @@ rankall <- function(outcome, num = "best") {
     }
     
     hospital
-    
+    ####### Pending finish
     ## Return a data frame with the hospital names and the
     ## (abbreviated) state name
 }
